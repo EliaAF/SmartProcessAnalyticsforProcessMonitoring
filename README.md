@@ -5,7 +5,7 @@ Version: 0.8.0
 
 Date: 2024/02/26
 
-Author: Fabian Mohn fmohr@mit.edu
+Author: Fabian Mohr fmohr@mit.edu
 
 Author: Elia Arnese Feffin elia249@mit.edu/elia.arnesefeffin@phd.unipd.it
 
