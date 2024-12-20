@@ -8,7 +8,7 @@ Author: Fabian Mohr fmohr@mit.edu
 # GNU General Public License version 3 (GPL-3.0) ------------------------------
 
 Smart Process Analytics for Process Monitoring
-Copyright (C) 2024 Fabian Mohr & Elia Arnese Feffin
+Copyright (C) 2024 Fabian Mohr & Elia Arnese-Feffin
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
@@ -26,9 +26,10 @@ this program. If not, see https://www.gnu.org/licenses/gpl-3.0.html.
 
 To attribute credit to the author of the software, please refer to the
 companion Journal Paper:
-    Mohr, F., Arnese-Feffin, E., Barolo, M., and Braatz, R. D. (2024):
-        Smart Process Analytics for Process Monitoring.
-        <Journal>, 00, 000–000.
+F. Mohr, E. Arnese-Feffin, M. Barolo, and R. D. Braatz (2025):
+    Smart Process Analytics for Process Monitoring.
+    *Computers and Chemical Engineering*, **194**, 108918.
+    DOI: https://doi.org/10.1016/j.compchemeng.2024.108918.
 
 """
 
